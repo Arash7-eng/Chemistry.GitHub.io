@@ -9,4 +9,4 @@
 |Because of presence of impurities,boiling temperature,of water is increased,because of which a lot of time go water for heating |Less time and fuel is consumed for heating softwater|
 |Because of presence of impurities lot of soap is consumed by hardwater|Softwater consumes less soap for washing and bathing purposes |
 
-<h3>Methods to remove permanent hardness</h3>
+<h2>Methods to remove permanent hardness</h2>
