@@ -4,7 +4,9 @@
 
 |Hardwater|Softwater|
 |---|---|
-|1. Water which does not form lather with soap is called Hard water|1. Water which forms lather easily with soap is called soft water|
-|2. Hardwater has dissolved salts of ca and mg.|2. Softwater does not have dissolved salts of ca and mg|
-|3. Because of presence of impurities,boiling temperature,of water is increased,because of which a lot of time go water for heating |3. Less time and fuel is consumed for heating softwater|
-|4. Because of presence of impurities lot of soap is consumed by hardwater|4. Softwater consumes less soap for washing and bathing purposes |
+|Water which does not form lather with soap is called Hard water|Water which forms lather easily with soap is called soft water|
+|Hardwater has dissolved salts of ca and mg.|Softwater does not have dissolved salts of ca and mg|
+|Because of presence of impurities,boiling temperature,of water is increased,because of which a lot of time go water for heating |Less time and fuel is consumed for heating softwater|
+|Because of presence of impurities lot of soap is consumed by hardwater|Softwater consumes less soap for washing and bathing purposes |
+
+<h3>Methods to remove permanent hardness</h3>
