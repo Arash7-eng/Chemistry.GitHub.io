@@ -1,2 +1,4 @@
 # Chemistry.GitHub.io
-Chemistry notes
+
+<h1>Unit 1 water and its treatment</h1>
+<h2>Topic:-Difference between hard water and soft water</h2>
