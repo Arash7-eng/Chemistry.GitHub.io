@@ -10,3 +10,5 @@
 |Because of presence of impurities lot of soap is consumed by hardwater|Softwater consumes less soap for washing and bathing purposes |
 
 <h2>Methods to remove permanent hardness</h2>
+**There are three methods to remove permanent hardness**
+<h3>Lime-Soda:-</h3>The method involves the treatment of water with lime[Ca(OH)2] and soda [Na2(CO)3] which reasults in the formation of insoluble precipitates of Ca and Mg which can be removed by filtration.
