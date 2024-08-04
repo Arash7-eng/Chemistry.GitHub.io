@@ -10,7 +10,7 @@
 |4.Because of presence of impurities lot of soap is consumed by hardwater|4.Softwater consumes less soap for washing and bathing purposes |
 
 <h2>Methods to remove permanent hardness</h2>
-There are three methods to remove permanent hardness
+There are three methods to remove permanent hardness:-
 <h3>Lime-Soda:-</h3>The method involves the treatment of water with lime[Ca(OH)2] and soda [Na2(CO)3] which reasults in the formation of insoluble precipitates of Calcium and Magnesium which can be removed by filtration.
 
 <h4> (A)Cold Lime-Soda Process</h4>
@@ -18,7 +18,7 @@ In this method, water to be softened is treated with calculated quantities of li
 The coagulant helps the finely divided precipitate formed in the process to flocculate. Sodium aluminate also helps in the removal of silica and oil present in water.
 
 
-<h4>(A)Hot Lime-Soda Process</h4>
+<h4>(B)Hot Lime-Soda Process</h4>
 In this process, water is treated with the softening chemicals at a temperature of 94°-100°C. Since the process is carried out at a temperature close to the boiling point of the solution, the reaction proceeds faster and the softening capacity of the process increases several times.
 At this temperature, the viscosity of water is much less than that at room temperature. Hence, rate of aggregation of particles increases and there is hardly any need of adding any coagulant. Moreover, the dissolved gases also escape to some extent at the temperature of the process.
 
