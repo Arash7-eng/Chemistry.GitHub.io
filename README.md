@@ -11,11 +11,17 @@
 
 <h2>Methods to remove permanent hardness</h2>
 There are three methods to remove permanent hardness
-<h3>Lime-Soda:-</h3>The method involves the treatment of water with lime[Ca(OH)2] and soda [Na2(CO)3] which reasults in the formation of insoluble precipitates of Ca and Mg which can be removed by filtration.
+<h3>Lime-Soda:-</h3>The method involves the treatment of water with lime[Ca(OH)2] and soda [Na2(CO)3] which reasults in the formation of insoluble precipitates of Calcium and Magnesium which can be removed by filtration.
 
-|(A)Cold lime soda process|(B)Hot lime soda process|
-|---|---|
-|It is carried out at room temperature.It is a low process.Coagulant Al₂(SO₄)₃ is added .Dissolved gases are not not removed. Water obtained is not very soft.The hardness content in water is around 60ppm.|It is carried out at high temperature almost at b.pt.of water .It is fast process.No need of coagulant.Dissolved gases are removed.Water obtained is soft of hardness 15-20ppm|
+<h4> Cold Lime-Soda Process</h4>
+In this method, water to be softened is treated with calculated quantities of lime and soda at room temperature. Small amounts of a coagulant such as alum, aluminium sulphate, sodium aluminate etc., are also added.
+The coagulant helps the finely divided precipitate formed in the process to flocculate. Sodium aluminate also helps in the removal of silica and oil present in water.
+
+
+<h4>Hot Lime-Soda Process</h4>
+In this process, water is treated with the softening chemicals at a temperature of 94°-100°C. Since the process is carried out at a temperature close to the boiling point of the solution, the reaction proceeds faster and the softening capacity of the process increases several times.
+At this temperature, the viscosity of water is much less than that at room temperature. Hence, rate of aggregation of particles increases and there is hardly any need of adding any coagulant. Moreover, the dissolved gases also escape to some extent at the temperature of the process.
+
 <h3>Zeolite or Permutit process:-</h3>This is a very effective method.
 Chemical formula of zeolite is:-Na₂O·Al₂O₃·xSiO₂·yH₂O;where x=2-10,y=2-6
 Hydrated sodium alumino silicate or sodium zeolite.
